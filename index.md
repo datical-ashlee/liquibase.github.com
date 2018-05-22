@@ -16,7 +16,7 @@ includeDaticalBox: true
 <div>
 <div class="span-8 append-1">
 
-<h1>Works With You</h1>
+<h1>Works With Me</h1>
 <ul>
     <li>Supports code branching and merging</li>
     <li>Supports multiple developers</li>
